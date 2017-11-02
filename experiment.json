@@ -1,12 +1,12 @@
 {
-    "name": "expfactory_simple_reaction_time", 
-    "alt_name": "Simple RT", 
-    "description": "Subjects are instructed to make a single (and always the same) keypress when any stimulus appears on the screen.", 
-    "version": "1.0.1", 
-    "repository": {"type": "git", "url": "git+https://github.com/expfactory-experiments/adaptive_n_back.git"}, 
-    "contributors": ["Ian Eisenberg", "Zeynep Enkavi", "Patrick Bissett", "Vanessa Sochat", "Teon L Brooks", "Russell Poldrack"], 
-    "duration": "3", 
-    "engine": {"front-end": "jspsych"}, 
-    "ontology": [ {"convention": "Cognitive Atlas", "term": "tsk_4a57abb949dc8"} ], 
+    "name": "expfactory_simple_reaction_time",
+    "alt_name": "Simple RT",
+    "description": "Subjects are instructed to make a single (and always the same) keypress when any stimulus appears on the screen.",
+    "version": "1.0.1",
+    "repository": {"type": "git", "url": "https://github.com/exprxiv/expfactory_simple_reaction_time.git"}, 
+    "contributors": ["Ian Eisenberg", "Zeynep Enkavi", "Patrick Bissett", "Vanessa Sochat", "Teon L Brooks", "Russell Poldrack"],
+    "duration": "3",
+    "engine": {"front-end": "jspsych"},
+    "ontology": [ {"convention": "Cognitive Atlas", "term": "tsk_4a57abb949dc8"} ],
     "reference": "http://www.sciencedirect.com/science/article/pii/0001691869900651"
 }
